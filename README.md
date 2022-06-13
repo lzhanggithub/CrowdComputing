@@ -13,8 +13,11 @@ JS:
 CSS:
 - (deployed src\client.css)
 
-In the HTML editor paste the following html src\toloka-avatar-evolution\index.html
-In the JS editor paste the following script src\toloka-avatar-evolution\script.js
+In the HTML editor paste the following html:
+- src\toloka-avatar-evolution\index.html
+
+In the JS editor paste the following script:
+- src\toloka-avatar-evolution\script.js
 
 ## Data specification
 Input data:
