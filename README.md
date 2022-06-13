@@ -9,6 +9,7 @@ JS:
 - https://qiusihang.github.io/ticktalkturk/js/jquery.js
 - https://qiusihang.github.io/ticktalkturk/js/chatbot.js
 - (deployed src\toloka-avatar-evolution\client-avatar.js)
+
 CSS:
 - (deployed src\client.css)
 
@@ -18,6 +19,7 @@ In the JS editor paste the following script src\toloka-avatar-evolution\script.j
 ## Data specification
 Input data:
 - imageURL : string : required
+
 Output data:
 - result 1 : string : required 
 - result 1 : string : required 
