@@ -29,3 +29,8 @@ Output data:
 - result 3 : string : required 
 - result 4 : string : required 
 - result 5 : string : required 
+
+## Upload data in Toloka
+In Toloka > Upload data > upload:
+- set manually = 1
+- upload data\captcha_avatar_and_static.tsv
