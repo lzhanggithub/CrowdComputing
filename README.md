@@ -1,6 +1,5 @@
 # CrowdComputing
-## TickTalkAvaLoKa (TTALK) - Investigating Avatar Evolution as a furtherance
-incentive on Toloka using Conversational Interfaces
+## TickTalkAvaLoKa (TTALK) - Investigating Avatar Evolution as a furtherance incentive on Toloka using Conversational Interfaces
 
 Crowd sourcing enables a system to take full advantage of human perception, judgements and creativity in completing
 certain task like labelling, analysis, and clustering. Crowd sourcing techniques has weaved crowds to efficient and
