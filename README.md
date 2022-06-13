@@ -1,7 +1,12 @@
 # CrowdComputing
 
-# Instructions for implementing into Toloka
-## Editor
+# Instructions for integerating TickTalkTurk into Toloka
+
+You would need to host the scripts file on a website for toloka to pull it and runs it for each task. 
+We recommend using github pages which are easily deployable and we tested it works smoothly.
+
+The example below is for the setup with the evolution avatar but the same steps can be followed just by using the right files.
+
 In edit project > task interface > Editor > settings add the following libraries
 
 JS:
