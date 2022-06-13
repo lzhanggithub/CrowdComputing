@@ -1,0 +1,25 @@
+<div id="edit_avatar">
+    <a target="_blank" id="anchr"style='display:block;margin-top:10px;'><button>Edit Avatar</button></a>
+    <textarea id="avatar_url" width = 300px style='display:block;margin-top:10px;' placeholder="Paste new avatar link here and click save!"></textarea>
+    <button onclick="save_avatar()" id="avatar_button" style='display:block;margin-top:10px;'>Save avatar</button>
+  </div>
+  
+  <div id="progress-bar">
+     <div class="w3-light-grey">
+      <div id="myBar" class="w3-container w3-green" style="height:24px;width:0%">
+      </div>
+    </div>
+  </div>
+  
+  <div id="container">
+        <div id="history-container">
+            <table id="chat-history"></table>
+        </div>
+        <div id="message-container"><textarea id="message" name="message" onkeydown="onKeyDown(event)" placeholder="Type your message here" rows="1"></textarea></div>
+        <div id="send-button" onclick="click_send()"><img src="https://qiusihang.github.io/ticktalkturk/style/send.png" width="20px" style="vertical-align:middle"/></div>
+        <div id="message-cover">Please reply the chatbot by selecting the option(s).</div>
+        <div id="submit" style="cursor:pointer" onclick="submit()">
+            <div style="font-size:16px;border:0px;background:rgba(0,0,0,0);color:#666666"><b>SUBMIT</b></div>
+            <textarea id="chat-answer" name="chat-answer" style="display:none"></textarea>
+        </div>
+    </div>
